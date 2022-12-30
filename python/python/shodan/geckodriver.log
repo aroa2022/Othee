@@ -1,0 +1,14 @@
+1672135605038	geckodriver	INFO	Listening on 127.0.0.1:64909
+1672135608065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GENESI~1\\AppData\\Local\\Temp\\rust_mozprofileEOAfIN"
+1672135609574	Marionette	INFO	Marionette enabled
+1672135609587	Marionette	INFO	Listening on port 64920
+Read port: 64920
+WebDriver BiDi listening on ws://127.0.0.1:64910
+1672135609860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GENESI~1\\AppData\\Local\\Temp\\rust_mozprofileEOAfIN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64910/devtools/browser/e3820d32-fb3f-4978-87b3-b7e2aeed7b23
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 3940: TypeError: engines is undefined
+JavaScript warning: http://95.102.23.183/doc/script/lib/angularjs/angularjs/angular-1.2.0.min.js?version=V4.0.1build170118, line 184: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1672136598842	Marionette	INFO	Stopped listening on port 64920
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
